@@ -20,7 +20,7 @@
     <link href="{{ asset('css/app.css') }}" rel="stylesheet">
 </head>
 <body>
-    <div id="app">
+    <div id="app" class="pb-8">
         <section class="px-8 py-4 mb-6">
             <header class="container mx-auto">
                 <h1>

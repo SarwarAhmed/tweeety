@@ -14,6 +14,8 @@ module.exports = {
       }
     },
   },
-  variants: {},
+  variants: {
+    borderWidth: ['last'], 
+  },
   plugins: [],
 }
