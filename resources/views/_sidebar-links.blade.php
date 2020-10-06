@@ -3,7 +3,7 @@
         <a href="{{ route('home') }}">Home</a>
     </li>
     <li class="font-bold text-lg mb-4 block">
-        <a href="#">Explore</a>
+        <a href="/explore">Explore</a>
     </li>
     <li class="font-bold text-lg mb-4 block">
         <a href="#">Notifications</a>

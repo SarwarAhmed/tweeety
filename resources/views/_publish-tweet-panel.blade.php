@@ -13,8 +13,7 @@
 
         <footer class="flex justify-between">
             <img 
-                {{-- src="{{ auth()->user()->avatar }}" --}}
-                src="/images/default-avatar.jpeg"
+                src="{{ auth()->user()->avatar }}"
                 alt="Avatar"
                 class="rounded-full h-12 w-12"
             >
