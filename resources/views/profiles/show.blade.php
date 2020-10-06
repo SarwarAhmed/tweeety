@@ -7,8 +7,8 @@
             >
 
             <img 
-            {{-- src="{{ $user->avatar }}"  --}}
-                src="/images/default-avatar.jpeg"
+                src="{{ $user->avatar }}" 
+                {{-- src="/images/default-avatar.jpeg" --}}
                 alt="Avatar"
                 class="w-32 rounded-full mr-2 absolute bottom-0 transform -translate-x-1/2 translate-y-1/2" 
                 style="left: 50%;"
